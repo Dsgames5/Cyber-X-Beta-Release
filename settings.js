@@ -61,10 +61,10 @@ global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.alivemsg = "𝐂𝐘⃢𝐁𝐄𝐑𝐓𝐑⃝𝐎𝐍〽️𝐆𝐎𝐃𝐙"
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur error pic
+global.thumb = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur thumb pic
 
 //DATA BASED
 
@@ -122,7 +122,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./LocalData/theme/cyber.jpg')
+global.thumb = fs.readFileSync('./LocalData/theme/8405352.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
