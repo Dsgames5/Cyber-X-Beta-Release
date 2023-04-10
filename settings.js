@@ -37,24 +37,24 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['918590745203'] //ur owner number
-global.ownername = "ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur owner name
-global.ytname = "YT:ᴄyʙᴇʀᴛʀᴏɴ ɢᴏᴅᴢᴢᴢ" //ur yt chanel name
-global.socialm = "GitHub: cybertrongodzzz" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.ownername = "Tanmay Tate" //ur owner name
+global.ytname = "YT:TANMAY TATE" //ur yt chanel name
+global.socialm = "Discord: i forgot lmao" //ur github or insta name
+global.location = "Tereko batana zaruri nhi samaj ta me lodeapna kaam kr" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['918590745203']
-global.ownertag = '918590745203' //ur tag number
-global.botnumber = '918590745203' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtube.com/@user-nb8ky9yo8j" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtube.com/@user-nb8ky9yo8j" //script link
-global.linkz = 'https://youtube.com/@user-nb8ky9yo8j'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cybertron-X Test Bot" //ur sticker watermark packname
-global.author = "ᑎEᒪᐯIᑎ" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.owner = ['12036646449']
+global.ownertag = '12036646449' //ur tag number
+global.botnumber = '12036646449' //Add your Bot Number For Log
+global.botname = 'TANMAY KA BOT' //ur bot name
+global.ig = "https://youtube.com/@tanmay_tate" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/@tanmay_tate" //script link
+global.linkz = 'https://youtube.com/@tanmay_tate'
+global.reactmoji = "😈" //ur menu react emoji
+global.themeemoji = "🪐" //ur theme emoji
+global.packname = "TANMAY TATE" //ur sticker watermark packname
+global.author = "tanmay tate" //ur sticker watermark author
+global.footer = "tanmay tate"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -68,7 +68,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['918590745203'] //ADD YOU NUMBER
+global.premium = ['12036646449'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -94,17 +94,17 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: '✉️✏️ _Done hogaya_',
+    admin: '✉️✏️ _This Feature Is Only For Admin!Admin karenge bas use tum jaise chapri nai!_',
+    botAdmin: '✉️✏️ _Bot Must Be Admin First!Laude admin de!_',
+    owner: '✉️✏️ _This Feature Is Only For Owner!Ye bas tanmay k liye hai!_',
+    group: '✉️✏️ _Feature Used Only For Groups!Ye group me chalega_',
+    private: '✉️✏️ _Features Used Only For Private Chat!Ye bas dm me kaam karega_',
+    bot: '✉️✏️ _This Feature Is Only For BotLaude_',
+    wait: '✉️✏️ _Processing Please Wait...Ruk ja bhai_',
+    linkm: '📧✏️ _Where is the link?Link kaha h chutiye!_',
+    error: '✉️🤕 ```ERROR404!!```',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours, Tera limit Gaya 12ghante baad aana!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
