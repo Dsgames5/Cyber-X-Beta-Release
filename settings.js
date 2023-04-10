@@ -25,7 +25,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
-global.vidmenu = fs.readFileSync("./LocalData/theme/cyber.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("./LocalData/theme/%E3%80%8CPolozhenie%E3%80%8D__Andrew_Tate_Edit_Top_G_Edit___4Khoha(480p).mp4") //gif and video menu
 
 //DOCUMENT VARIANTS
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -36,7 +36,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['918590745203'] //ur owner number
+global.vcardowner = ['12036646449'] //ur owner number
 global.ownername = "Tanmay Tate" //ur owner name
 global.ytname = "YT:TANMAY TATE" //ur yt chanel name
 global.socialm = "Discord: i forgot lmao" //ur github or insta name
@@ -59,7 +59,7 @@ global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "𝐂𝐘⃢𝐁𝐄𝐑𝐓𝐑⃝𝐎𝐍〽️𝐆𝐎𝐃𝐙"
+global.alivemsg = "TANMAY TATE AGAYA"
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./LocalData/theme/8405352.jpg") //ur logo pic
